@@ -1,0 +1,28 @@
+Stellar parameters obtained by Sergio Sousa using SOPHIE spectra:
+
+star    teff    erteff  erteff2 logg    logg_ca logg_ct erlogg  erlogg2 vtur    ervtur  feh     erfeh   erfeh2  NFEI    NFEII   siFEI   siFEII  logg_dr3        erlogg_dr3      mass_t  ermass_t        radius_t        erradius_t      vsini   vsini_err
+----    ----    ------  ------- ----    ------- ------- ------  ------- ----    ------  ---     -----   ------  ----    -----   -----   ------  --------        ----------      ------  --------        ------- -------------------------------------
+TOI1273 5697      18      62     4.335   4.218   4.321   0.030   0.104   0.810   0.027   0.066   0.014   0.042  223      26      0.040   0.053  4.38            0.03            0.98    0.02            1.07            0.03            2.2     1.0
+TOI1199 5700      28      66     4.154   4.036   4.138   0.064   0.119   0.909   0.035   0.418   0.022   0.045  185      26      0.058   0.120  4.19            0.03            1.18    0.02            1.45            0.05            3.3     1.0
+
+-----------------------
+Stellar parameters obtained by Allyson Bieryla as part of ExoFOP, row 1 is from TRES and row 2 from FIES
+star    teff    erteff  erteff2 logg    logg_ca logg_ct erlogg  erlogg2 vtur    ervtur  feh     erfeh   erfeh2  NFEI    NFEII   siFEI   siFEII  logg_dr3        erlogg_dr3      mass_t  ermass_t        radius_t        erradius_t      vsini   vsini_err
+----    ----    ------  ------- ----    ------- ------- ------  ------- ----    ------  ---     -----   ------  ----    -----   -----   ------  --------        ----------      ------  --------        ------- --------------------------------------
+TOI1273 5693    50              4.32                    0.10                            0.04    0.08                                                                                                                                    2.7     0.5
+TOI1273 5704    50              4.42                    0.10                            0.13    0.08                                                                                                                                    2.4     0.5
+TOI1199 5726    50              4.28                    0.10                            0.49    0.08                                                                                                                                    3.3     0.5
+
+teff        : effective temperature
+logg        : spectroscopic surface gravity
+vtur        : spectroscopic microturbulence
+feh         : [Fe/H]
+er[X]       : error on X (Teff, logg, and feh) (precision error)
+er[X]2      : error on X (precision error + systematic)
+logg_ct     : correction logg using transit data (paper of Mortier et al. 2014)
+logg_at     : correction logg using asteroseismology (paper of Mortier et al.2014)
+NFEI/NFEII  : Number of FeI and FeII lines used in the analysis
+siFEI/siFEII: Standard deviations of the iron abundance given by FeI/FeII
+logg_dr3    : Trigonometric surface gravity (derived using GAIA eDR3)
+mass_t      : Stellar mass using the calibration provided in Torres et al. 2010. (Input uses: Teff, logg_dr3, [fe/h])
+radius_t    : Stellar radius using the calibration provided in Torres et al. 2010. (Input uses: Teff, logg_dr3, [fe/h])
