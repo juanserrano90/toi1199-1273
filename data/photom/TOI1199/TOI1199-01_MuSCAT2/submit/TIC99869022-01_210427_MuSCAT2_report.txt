@@ -1,0 +1,13 @@
+MuSCAT2 report: TIC99869022-01 210427
+
+Target: 0
+Reference star(s): [1, 2, 3]
+Target aperture: 10.875 arcsec
+Reference aperture(s): [5.655 5.655 5.655] arcsec
+
+Tc: 2459332.4237899 ± 0.0005127
+T14: 0.09722 ± 0.00278 days
+
+All passbands have the same aperture for each star.
+
+**REPORT TEXT HERE**

@@ -1,0 +1,75 @@
+%
+\documentclass[]{aa} % for the letters 
+%
+%\documentclass[structabstract]{aa}  
+%\documentclass[traditabstract]{aa} % for the abstract without structuration 
+%\usepackage{subfigure}                                   % (traditional abstract) 
+\usepackage{epsfig}
+\usepackage{wasysym}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{booktabs}
+%\usepackage{amssymb, amsmath}
+\usepackage{lscape}
+%\usepackage{multirow}
+
+\bibliographystyle{aa}
+
+\usepackage{url}
+\usepackage[breaklinks]{hyperref}
+
+%\usepackage{amsmath}
+\usepackage{color}
+\providecommand{\tabularnewline}{\\}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{txfonts}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+
+  
+\begin{document}
+
+  \title{Stellar parameters}
+
+  \author{         }
+
+  \institute{}
+
+
+  \date{Received date / Accepted date }
+% \abstract{}{}{}{}{} 
+% 5 {} token are mandatory
+ 
+%----------------------------------------------------------------------------------------
+%       Abstract
+%----------------------------------------------------------------------------------------
+  \abstract
+  {}
+  {.}
+  {.}
+  {.}
+  {.}
+  
+  \keywords{}
+
+
+  
+\maketitle
+
+%
+%________________________________________________________________________________________________________
+
+
+
+\section{Stellar parameters and chemical abundances}            \label{sec:parameters}
+
+The stellar athmospheric parameters ($T_{\mathrm{eff}}$, $\log g$, microturbulence, [Fe/H]) were derived using the ARES+MOOG methodology described in \citet[][]{Sousa-21, Sousa-14, Santos-13}. We use the latest version of ARES \footnote{The last version, ARES v2, can be downloaded at https://github.com/sousasag/ARES} \citep{Sousa-07, Sousa-15} to measure the equivalent widths (EW) of selectd iron lines on the combined spectrum of TOI-1199 and TOI-1273. The list of iron lines is the same as the one presented in \citet[][]{Sousa-08}. A minimization process is used to find the ionization and excitation equilibrium and converge to the best set of spectroscopic parameters. This process makes use of a grid of Kurucz model atmospheres \citep{Kurucz-93} and the radiative transfer code MOOG \citep{Sneden-73}. We also derived a more accurate trigonometric surface gravity using recent GAIA data following the same procedure as described in \citet[][]{Sousa-21}.
+
+
+\bibliography{refbib}
+
+
+
+
+\end{document}
+
