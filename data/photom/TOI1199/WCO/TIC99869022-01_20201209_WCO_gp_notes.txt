@@ -1,0 +1,25 @@
+
+TIC99869022.01 (TOI 1199.01) was observed on UT2020.12.09 using the WCO_0.36m with 70 s exposures in the gp band.  The FWHM of the target PSF was 3.2” and an uncontaminated aperture radius of 5.9” was used.
+
+Goals:
+Observe a full transit in blue for chromaticity check.
+
+Interpretation of Results:
+A full transit was observed on target (OOT -129/+82 min).  The ingress was 29 minutes late and the transit duration about 14 min shorter than the predicted values.  The observed depth was equal to the predicted value at 4.3 ppt. The light curves were detrended with airmass and total_C_cnts. 
+ 
+Predicted Depth: 4.3 ppt
+Measured Depth: 4.3 ppt
+
+Predicted Tc: 2459192.8885
+Measured Tc: 2459192.9034
+
+Predicted Duration: 2:10
+Measured Duration: 1:56
+
+Observing notes:
+Clear, seeing was variable, FWHM 1.8”-3.9”, moon phase 44% at 77° from target.
+
+TTF Comments:
+QLP S14 VPC+: [P=3.67166] Allyson observed a full on 20200201 in ip and detected a 28 minute early 4 ppt event in an uncontaminated 7.4" target aperture. [P=3.67129] Joao Gregorio observed a full on 20200204 in gp and detected a ~15 minute late roughly 4-5 ppt transit on target. Giuseppe Marino observed a full on 20200204 in R and detected a 4 ppt event on target. Eric Girardin observed a full on 2020-11-20 in zs and detected a ~30 min late ~4.2 ppt transit using an uncontaminated aperture of 4.4", extending the chromaticity check in the red. No more observations needed, except for multi-band or alternating filter high precision (<1.0 ppt/5 min) full transits in blue (U, u', B, g') *and* very red (zp, zs, Y) to refine the check on chromaticity.
+
+

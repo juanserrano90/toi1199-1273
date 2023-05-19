@@ -1,0 +1,25 @@
+
+TIC 99869022.01 (TOI 1199.01) on UT2020.02.04 from WBRO-24cm in R
+
+Goals: confirm event on target and/or check field for NEBs within 2.5'
+Results: event on target is confimed with high confidence (in the same night also Allyson observed the same event)
+Aperture radius: 12.6 arc-sec
+Predicted transit center time from the TTF: BJD 2458884.500
+Gaia stars' contamination into the follow-up aperture: no (see zoomed image)
+FWHM of the target star: 4.7 arcsec
+Size of the smallest aperture that produces a light curve shape and depth comparable to the light curve reported for the aperture that produced the light curve with the smallest scatter: 7 pixel = 5.5 arcsec
+Differences between predicted vs. observed mid-point transit times: -0.003 days
+Differences between predicted vs. observed transit durations: 0.00 days
+Approximate depth of the event in the target star: 5 ppt
+Notes in the TESS Transit Finder: "QLP S14 VPC: [P=3.67166] Allyson observed a full on 20200201 in ip and detected a 28 minute early 4 ppt event in an uncontaminated 7.4" target aperture. [P=3.67129] Joao Gregorio observed a full on 20200204 in gp and detected a ~15 minute late roughly 4-5 ppt transit on target. The next observation should be a high precision (<1.0 ppt/5 min) full transit in a blue (U, u', B, g') and/or very red (zp, zs, Y) filter to check for chromaticity."
+Files have yet been uploaded to ExoFOP-TESS: yes
+MF: no
+Image shift statistics (1 pixel = 0.79 arc-sec):
+             stdev.(arc-seconds): 0.39 arcsec in X and 0.39 in Y
+             max. deviation (pixels): 1.4 in X and 1.4 in Y
+Seeing conditions: FWHM(10s time exp.)=3"
+Local conditions: clear
+Detrend: AIRMASS + SKY/PIXEL_T1
+Other notes:
+
+
