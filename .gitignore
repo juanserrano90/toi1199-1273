@@ -7,8 +7,5 @@
 *.gz
 *.zip
 .ipynb_checkpoints
-*.png
-*.jpg
 *.save
 *.xc
-*.pdf
