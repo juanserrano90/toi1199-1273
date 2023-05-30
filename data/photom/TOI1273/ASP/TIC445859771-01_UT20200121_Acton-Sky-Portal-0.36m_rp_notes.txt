@@ -1,0 +1,14 @@
+TIC 445859771.01 (TOI 1273.01) on UT2020.01.21 from Acton-Sky-Portal-0.36m_rp
+
+Full transit observed very near the TESS predicted time and predicted transit depth. 
+
+Setup C14 0.36m with ST8XME CCD and rp filter.  10 sec exposures to avoid saturating nearby bright star C3.
+
+Aperture 11 px = 7.59 arcsec
+
+FWHM (T1) 6.03 px = 4.14 arcsec
+
+Mid transit: 2458869.815
+
+Paul Benni
+Acton Sky Portal
