@@ -1,0 +1,11 @@
+http://astro.phy.vanderbilt.edu/~stassuk/ftp/toi_1273_sed.ps 
+Reduced chi^2 = 1.4
+Av = 0.01 +/- 0.01
+Fbol = 1.097 +/- 0.013 e-9 erg/s/cm2 
+Lbol = 1.068 +/- 0.013 Lsun
+Radius = 1.063 +/- 0.020 Rsun
+Mass  = 1.056 +/- 0.063 Msun 
+Prot/sini = 20.7 +/- 2.4 d 
+Age (Prot/sini) = 2.1 +/- 0.5 Gyr 
+Age (Rhk) = 6.6 +/- 3.2 Gyr  
+Prot (predicted from Rhk) = 42 +/- 11 d 

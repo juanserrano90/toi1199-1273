@@ -1,0 +1,11 @@
+http://astro.phy.vanderbilt.edu/~stassuk/ftp/toi_1199_sed.ps 
+Reduced chi^2 = 1.2
+Av = 0.02 +/- 0.02
+Fbol = 1.0553 +/-  0.0017 e-9 erg/s/cm2  (via direct integration of SED) 
+Lbol = 2.0145 +/- 0.0084 Lsun  (via Fbol + parallax) 
+Radius = 1.452 +/- 0.0310 Rsun  (via Stefan-Boltzmann relation) 
+Mass = 1.23 +/- 0.07 Msun (via Torres+2010 empirical relations) 
+Prot/sini = 21.9 +/- 0.6 d  (via vsini + Radius) 
+Age (Prot/sini) =  4.2 +/- 0.2 Gyr (via Mamajek+2008 empirical relations) 
+Age (Rhk) = 8.4 +/- 3.2 Gyr  (via Mamajek+2008 empirical relations) 
+Prot (predicted from Rhk) = 23.1 +/-  5.4 d
